@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "run",
+"productVersion": "0.1",
+"dataUrl": "webgl_Brickrooms_build1.0.data.unityweb",
+"wasmCodeUrl": "webgl_Brickrooms_build1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl_Brickrooms_build1.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
